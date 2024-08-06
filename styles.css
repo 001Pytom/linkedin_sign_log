@@ -23,6 +23,10 @@ nav {
   padding: 12px 12rem 16px 12rem;
 }
 
+.logo img {
+  width: 102px;
+  height: 25.5px;
+}
 .right-content {
   display: flex;
   /* gap: 5rem; */
